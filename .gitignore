@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated reports (optional: if you want them generated on the fly)
+*.pdf
